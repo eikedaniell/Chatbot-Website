@@ -5,7 +5,7 @@
 
 **II. Informações Adicionais**
 
-- Este projeto fez parte de um trabalho acadêmico no iCEV (Instituto de Ensino Superior), no curso de Engenharia de Software;
+- Este projeto fez parte de um trabalho acadêmico no iCEV (Instituto de Ensino Superior), no curso de Engenharia de Software em 2024;
  
 - O Chatbot foi elogiado pelos representantes da AMA (Associação dos Amigos Autistas) de Teresina;
 
