@@ -13,7 +13,7 @@ e portanto, atualmente, o chatbot está fora do ar (já que para mantê-lo ativo
 
 **III. Habilidades Adquiridas**
 
- - Desenvolvimento de Websites e Estilização.
+ - Desenvolvimento & Estilização de Websites
 
 
 
