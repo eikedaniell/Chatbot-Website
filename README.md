@@ -9,7 +9,7 @@
  
 - O Chatbot foi elogiado pelos representantes da AMA (Associação dos Amigos Autistas) de Teresina;
 
-- Este foi um projeto experimental e sem fins lucrativos, visando apenas o aperfeiçoamento de minhas habilidades, e portanto, atualmente, o chatbot está fora do ar (já que para mantê-lo ativo seria necessário o pagamento de uma taxa).
+- Este foi um projeto experimental e sem fins lucrativos. Atualmente, o chatbot está fora do ar (já que para mantê-lo ativo seria necessário o pagamento de uma taxa).
 
 **III. Habilidades Adquiridas**
 
