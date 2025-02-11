@@ -5,6 +5,7 @@
 - Este projeto fez parte de um trabalho acadêmico no iCEV (Instituto de Ensino Superior), no curso de Engenharia de Software e
 Chatbot foi elogiado pelos representantes da AMA (Associação dos Amigos Autistas) de Teresina.
 
+
 **II. Informações Adicionais**
 
 - Este foi um projeto experimental e sem fins lucrativos, visando apenas aperfeiçoamento das minhas habilidades
