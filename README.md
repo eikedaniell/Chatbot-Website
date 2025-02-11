@@ -1,4 +1,4 @@
-Conhecimentos adquiridos: HTML e CSS (Desenvolvimento de Websites)
+**Conhecimentos adquiridos: HTML e CSS (Desenvolvimento de Websites)**
 
 1. Este código consiste em uma página HTML estilizada com CSS, contendo um Chatbot alimentado por uma IA (Inteligência Artificial)
 treinada para responder perguntas sobre o autismo, e especializada em fornecer informações complexas,de forma organizada, simples e informativa.
