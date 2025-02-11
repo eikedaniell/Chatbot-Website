@@ -12,7 +12,7 @@ e portanto, atualmente, o chatbot está fora do ar (já que para mantê-lo ativo
 
 **Conhecimentos adquiridos**
 
- -  _**HTML/CSS**_: Desenvolvimento de Websites e Estilização.
+ - Desenvolvimento de Websites e Estilização.
 
 
 
