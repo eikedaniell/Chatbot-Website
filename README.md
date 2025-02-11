@@ -5,10 +5,11 @@
 
 **II. Informações Adicionais**
 
+- O Chatbot foi testado, elogiado e aprovado pelos representantes da AMA (Associação dos Amigos Autistas) de Teresina.
+ 
 - Este projeto fez parte de um trabalho acadêmico no iCEV (Instituto de Ensino Superior), no curso de Engenharia de Software.
-O Chatbot foi elogiado pelos representantes da AMA (Associação dos Amigos Autistas) de Teresina.
 
-- Este foi um projeto experimental e sem fins lucrativos, visando apenas aperfeiçoamento das minhas habilidades
+- Este foi um projeto experimental e sem fins lucrativos, visando apenas aperfeiçoamento de minhas habilidades
 e portanto, atualmente, o chatbot está fora do ar (já que para mantê-lo ativo seria necessário o pagamento de uma taxa).
 
 **III. Habilidades Adquiridas**
