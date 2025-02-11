@@ -2,8 +2,8 @@
 
 - O código consiste em uma página HTML/CSS, contendo um Chatbot treinado para responder perguntas sobre o autismo, e especializada em fornecer informações complexas de forma organizada, simples e informativa.
 
-- Este projeto fez parte de um trabalho acadêmico no iCEV (Instituto de Ensino Superior), no curso de Engenharia de Software e
-Chatbot foi elogiado pelos representantes da AMA (Associação dos Amigos Autistas) de Teresina.
+- Este projeto fez parte de um trabalho acadêmico no iCEV (Instituto de Ensino Superior), no curso de Engenharia de Software.
+O Chatbot foi elogiado pelos representantes da AMA (Associação dos Amigos Autistas) de Teresina.
 
 
 **II. Informações Adicionais**
