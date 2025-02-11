@@ -1,6 +1,7 @@
 **Conhecimentos adquiridos**
 
-- HTML e CSS (Desenvolvimento de Websites)
+- Criação de Websites (HTML)
+- Estilização de Websites (CSS)
 
 
 **Informações Gerais**
