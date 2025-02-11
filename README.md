@@ -7,7 +7,7 @@ Chatbot foi elogiado pelos representantes da AMA (Associação dos Amigos Autist
 
 **Informações Adicionais**
 
-1. Este foi um projeto experimental e sem fins lucrativos, e serviu sobretudo para a aquisição e para o aperfeiçoamento dos meus conhecimentos e habilidades no que tange à construção
+**1.**  Este foi um projeto experimental e sem fins lucrativos, e serviu sobretudo para a aquisição e para o aperfeiçoamento dos meus conhecimentos e habilidades no que tange à construção
 de páginas web, e portanto, atualmente, o chatbot está fora do ar (já que para mantê-lo ativo eu precisaria pagar uma taxa).
 
 **Conhecimentos adquiridos**
