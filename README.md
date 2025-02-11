@@ -9,7 +9,7 @@
  
 - O Chatbot foi elogiado pelos representantes da AMA (Associação dos Amigos Autistas) de Teresina;
 
-- Atualmente, o chatbot está fora do ar, mas a página ainda está disponível para visualização.
+- Atualmente, o chatbot está fora do ar, mas a página ainda está disponível para a visualização.
 
 **III. Habilidades Adquiridas**
 
