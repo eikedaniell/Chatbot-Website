@@ -1,6 +1,6 @@
 **I. Informações Gerais**
 
-- Esse é o código de uma página HTML/CSS, que contém um Chatbot treinado e especializado para responder perguntas e em informações sobre o autismo. complexas de forma organizada, simples e informativa.
+- Esse é o código de uma página HTML/CSS, que contém um Chatbot treinado e especializado para responder perguntas e fornecer informações sobre o Transtorno do Espectro Autista (TEA).
 
 
 **II. Informações Adicionais**
