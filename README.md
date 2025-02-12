@@ -11,7 +11,7 @@
 
 - Atualmente, o chatbot está fora do ar, mas a página ainda está disponível para a visualização.
 
-**III. Habilidades Adquiridas
+**III. Habilidades Adquiridas**
 
  - Desenvolvimento & Estilização de Websites 
 
