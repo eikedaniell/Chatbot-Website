@@ -7,7 +7,7 @@
  
 - O Chatbot foi elogiado pelos representantes da AMA (Associação dos Amigos Autistas) de Teresina;
 
-- Este projeto fez parte de um trabalho acadêmico no iCEV (Instituto de Ensino Superior), no curso de Engenharia de Software em 2024;
+- Esse código foi criado para um projeto interdisciplinar iCEV (Instituto de Ensino Superior), no curso de Engenharia de Software em 2024;
 
 - Atualmente, o chatbot está fora do ar, mas a página ainda está disponível para a visualização.
 
